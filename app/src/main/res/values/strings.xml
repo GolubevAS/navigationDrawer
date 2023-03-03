@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">navigationDrawer</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="first_item">«Евге́ний Оне́гин» — роман \n в стихах русского писателя\n и поэта Александра Сергеевича Пушкина,</string>
+    <string name="second_item">Second ItemSecond ItemSecond Item</string>
+    <string name="third_item">Third ItemThird Item</string>
+</resources>
